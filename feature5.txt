@@ -1,1 +1,2 @@
 some feature 5 text
+new tesxt added
